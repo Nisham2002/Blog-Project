@@ -14,13 +14,12 @@ A fully functional blog application built using Django 5 and MySQL. This project
 ✅ SEO-friendly URLs
 
 🛠️ Technologies Used
-Backend: Django 5, MySQL
-Frontend: HTML, CSS, Bootstrap
+Backend: Python, Django 5, MySQL
+Frontend: HTML, CSS, 
 Authentication: Django User Model
 Database: MySQL
 Deployment: Coming soon...
 📂 Project Setup
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/django-blog-project.git
-cd django-blog-projec
+
